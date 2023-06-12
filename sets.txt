@@ -1,0 +1,39 @@
+1.The club has 450 members. The answer is (B) 450.
+
+2.The number of people who do not subscribe to any of the two TV networks is 3,000. The answer is (C) 3,000.
+
+3.The number of athletes in the marathon team only is 10. The answer is (B) 10.
+
+4.The number of passengers who like only coffee is greater than the number of passengers who like only ice cream by 0. The answer is (B) 15.
+
+5.The number of persons who like only bananas is 33. The answer is (D) 33.
+
+6.The percentage of students that do not like cabbage is 68%. The answer is (D) 68.
+
+7.The number of rural people who are either farmers or rich but not both is 6. The answer is (C) 6.
+
+8.The number of students who participate in squash only is 20. The answer is (D) 20.
+
+9.The number of students who participated in all three games is 34. The answer is (D) 34.
+
+10.The number of students who have passed in Economics only is 10. The answer is (D) 10.
+
+11.The Venn diagram that best illustrates the relationship between Graduates, Teachers, and Literates is (C) C.
+
+12.The solution set of the equation x^2 + x + 2 = 0 in roster form is { }. The answer is (B) { }.
+
+13.The number of students who participated in Debate only is 22. The answer is (D) 22.
+
+14.Diagram (A) best represents the relationship among the given classes: Country, State, City.
+
+15.The set A = {3, -3} cannot be converted into set-builder form. The answer is (d) None of these.
+
+16.The number of elements present in P∪Q∪R is 202. The answer is (A) 202.
+
+17.The maximum and minimum number of people who could have done Chemistry only are 40 and 0, respectively. The answer is (A) 40, 0.
+
+18.The total number of members in the three athletic teams is 49. The answer is (c) 49.
+
+19.The set of intelligent students in a class is a finite set. The answer is (c) A finite set.
+
+20.The number of pupils taking 2 subjects is 6. The answer is (b) 6.
